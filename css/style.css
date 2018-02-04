@@ -12,3 +12,8 @@ body {
     display: flex;
     justify-content: center;
 }
+img {
+    margin: 5px;
+    width: 472px;
+    height: 368px;
+}
