@@ -12,21 +12,27 @@ body {
     display: flex;
     justify-content: center;
 }
-img {
-    margin: 5px;
-    width: 236px;
-    height: 184px;
-}
 .navbar {
-    background: lightskyblue;
+    background: lightblue;
+}
+.main {
+    background: white;
+    border-radius: 5px;
+}
+.sidebar {
+    background: white;
+    border-radius: 5px;
+}
+.sidethumb {
+    height: 50px;
+    width: 50px;
 }
 p {
     color: black;
     size: 20px;
 }
-.main {
-    background: white;
-}
-.sidebar {
-    background: white;
+img {
+    margin: 5px;
+    width: 236px;
+    height: 184px;
 }
