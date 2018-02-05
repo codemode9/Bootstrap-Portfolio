@@ -14,6 +14,19 @@ body {
 }
 img {
     margin: 5px;
-    width: 472px;
-    height: 368px;
+    width: 236px;
+    height: 184px;
+}
+.navbar {
+    background: lightskyblue;
+}
+p {
+    color: black;
+    size: 20px;
+}
+.main {
+    background: white;
+}
+.sidebar {
+    background: white;
 }
